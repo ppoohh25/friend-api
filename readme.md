@@ -2,6 +2,8 @@
 
 ![alt text](https://media.discordapp.net/attachments/912387569067634719/912394378553749554/IMG_9854.jpg?width=744&height=499)
 
+<center>
+
 Number | Name | Nickname |
 :-----: | :-----: | :-----:
 1 | สดายุ เดชเดชะสุนันท์ | ภู
@@ -29,3 +31,4 @@ Number | Name | Nickname |
 23 | ธัญพิสิษฐ์ จันทเขต | ตัง
 24 | ทักษอร ตั๋นซ้าย | ออย
 
+</center>
