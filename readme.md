@@ -1,8 +1,6 @@
 # MVK19 SECTION 3 
 
-![alt text](https://media.discordapp.net/attachments/912387569067634719/912394378553749554/IMG_9854.jpg?width=744&height=499)
-
-<center>
+![alt text](https://media.discordapp.net/attachments/912387569067634719/912394378553749554/IMG_9854.jpg?width=744&height=499).
 
 Number | Name | Nickname |
 :-----: | :-----: | :-----:
@@ -31,4 +29,3 @@ Number | Name | Nickname |
 23 | ธัญพิสิษฐ์ จันทเขต | ตัง
 24 | ทักษอร ตั๋นซ้าย | ออย
 
-</center>
