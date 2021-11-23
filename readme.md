@@ -1,6 +1,7 @@
 # MVK19 SECTION 3 
 
-![alt text](https://media.discordapp.net/attachments/912387569067634719/912394378553749554/IMG_9854.jpg?width=744&height=499).
+![alt text](https://media.discordapp.net/attachments/912387569067634719/912394378553749554/IMG_9854.jpg?width=744&height=499)
+
 
 Number | Name | Nickname |
 :-----: | :-----: | :-----:
